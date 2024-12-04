@@ -4,6 +4,12 @@
 
 <!-- <h1 align="center">GitHub Actions Workshop</h1> -->
 
+[![Intro - Custom Workflow](https://github.com/EGoodloe/github-actions-workshop/actions/workflows/intro-custom-workflow.yml/badge.svg)](https://github.com/EGoodloe/github-actions-workshop/actions/workflows/intro-custom-workflow.yml)
+[![Intro - Manual Workflow](https://github.com/EGoodloe/github-actions-workshop/actions/workflows/intro-manual-workflow.yml/badge.svg)](https://github.com/EGoodloe/github-actions-workshop/actions/workflows/intro-manual-workflow.yml)
+[![Intro - Scheduled Workflow](https://github.com/EGoodloe/github-actions-workshop/actions/workflows/intro-scheduled-workflow.yml/badge.svg)](https://github.com/EGoodloe/github-actions-workshop/actions/workflows/intro-scheduled-workflow.yml)
+[![Intro - Simple Workflow](https://github.com/EGoodloe/github-actions-workshop/actions/workflows/simple-workflow.yml/badge.svg)](https://github.com/EGoodloe/github-actions-workshop/actions/workflows/simple-workflow.yml)
+[![Intro - YAML Syntax](https://github.com/EGoodloe/github-actions-workshop/actions/workflows/intro-yaml-syntax.yml/badge.svg)](https://github.com/EGoodloe/github-actions-workshop/actions/workflows/intro-yaml-syntax.yml)
+
 <p align="center">⭐ If you like this repo, star it on GitHub — it helps a lot! ⭐</p>
 
 <p align="center">
